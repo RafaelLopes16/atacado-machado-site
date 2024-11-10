@@ -40,8 +40,6 @@ export const Header = (props) => {
 
     
     <div className='form-group row align-items-center' style={{
-        borderTop: '1px solid #333',
-        borderBottom: '1px solid #333'
       }}>
         <div className="col-4 ml-2" style={{paddingLeft:"3%"}}>
             <h3 style={{paddingBottom:'3%'}}>
